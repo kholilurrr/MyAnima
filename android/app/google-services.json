@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982970913604",
+    "project_id": "animelistuseapi",
+    "storage_bucket": "animelistuseapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982970913604:android:047f2750b0d68aa275fd11",
+        "android_client_info": {
+          "package_name": "com.example.anilist_gql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982970913604-lf2tqpauf589dii157ksq017kdg36mkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldtAudrzIgk5zFAZusbGNr-GwoEs9VAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982970913604-lf2tqpauf589dii157ksq017kdg36mkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
